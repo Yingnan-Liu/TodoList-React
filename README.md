@@ -1,2 +1,2 @@
 # TodoList-ReactProject1
-using React to develop a TodoList web application 
+Using React Class Component to develop a TodoList web application 
